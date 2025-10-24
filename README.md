@@ -39,5 +39,3 @@ As a beginner in data analytics, I built this project by referring to various so
 
 ---
 
-
-Would you like me to make a **shorter README version** (just overview + link + tools) — ideal if your GitHub repo has only one Power BI file?
